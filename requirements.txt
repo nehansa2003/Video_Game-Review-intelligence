@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+gradio
+transformers
+datasets
+torch
+accelerate
+yake
+openpyxl
+tqdm
