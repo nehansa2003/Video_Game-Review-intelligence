@@ -1,1 +1,1 @@
-
+Link for model.safetensors file-https://drive.google.com/file/d/1RxYHPA4AppA9JORrIy_LidEFJrjvzQcg/view?usp=drive_link
