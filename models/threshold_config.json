@@ -1,0 +1,9 @@
+{
+    "model": "DistilBERT",
+    "negative_threshold": 0.3,
+    "labels": {
+        "0": "negative",
+        "1": "neutral",
+        "2": "positive"
+    }
+}
